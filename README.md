@@ -26,8 +26,8 @@ The experiments are run on a lab server with:
 ### 1. Implement a Batched Matrix Multiplication Serverless Call
 
 Implement a batched matrix multiplication serverless function (`bmm_single`) on a single CPU. 
-The serverless call takes batched matrices $A$, and batched matrices $B$ as input, computes batch matrix multiplication on $A$ and $B$ for 1,000 times on a single CPU, and returns batched output matrices $C$.
-$A$, $B$, and $C$ are Pytorch tensors of sizes `[bs, M, N]`, `[bs, N, K]`, and `[bs, M, K]` correspondingly. 
+The serverless call takes batched matrices *A*, and batched matrices *B* as input, computes batch matrix multiplication on *A* and *B* for 1,000 times on a single CPU, and returns batched output matrices *C*.
+*A*, *B*, and *C* are Pytorch tensors of sizes `[bs, M, N]`, `[bs, N, K]`, and `[bs, M, K]` correspondingly. 
 
 Implement the function `call_singleCPU` to make the serverless function call with randomnly initialized input matrices and verify the result correctness with the matrix parameters: `bs = 5, 10, 15` and `M = N = K = 100, 500, 1000`.
 
