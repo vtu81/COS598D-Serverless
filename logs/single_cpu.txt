@@ -1,0 +1,152 @@
+param: [5, 100, 100, 100]
+[Single CPU]
+Bare Metal Time 0.2433769702911377
+Serverless Call Time: 2.153148889541626
+[Single CPU]
+Bare Metal Time 0.24078774452209473
+Serverless Call Time: 2.137619972229004
+[Single CPU]
+Bare Metal Time 0.24349379539489746
+Serverless Call Time: 4.253751754760742
+[Single CPU]
+Bare Metal Time 0.19632625579833984
+Serverless Call Time: 3.253964900970459
+[Single CPU]
+Bare Metal Time 0.20026087760925293
+Serverless Call Time: 2.1402647495269775
+
+param: [5, 500, 500, 500]
+[Single CPU]
+Bare Metal Time 17.762362241744995
+Serverless Call Time: 20.502074718475342
+[Single CPU]
+Bare Metal Time 17.735604286193848
+Serverless Call Time: 19.500316619873047
+[Single CPU]
+Bare Metal Time 18.622016429901123
+Serverless Call Time: 20.53264880180359
+[Single CPU]
+Bare Metal Time 24.94270157814026
+Serverless Call Time: 26.6088650226593
+[Single CPU]
+Bare Metal Time 23.755297422409058
+Serverless Call Time: 26.624648571014404
+
+param: [10, 100, 100, 100]
+[Single CPU]
+Bare Metal Time 0.4067564010620117
+Serverless Call Time: 5.239407300949097
+[Single CPU]
+Bare Metal Time 0.3498694896697998
+Serverless Call Time: 2.1416280269622803
+[Single CPU]
+Bare Metal Time 0.40938806533813477
+Serverless Call Time: 3.245480537414551
+[Single CPU]
+Bare Metal Time 0.39017415046691895
+Serverless Call Time: 4.25102162361145
+[Single CPU]
+Bare Metal Time 0.35971927642822266
+Serverless Call Time: 3.2441623210906982
+
+param: [10, 500, 500, 500]
+[Single CPU]
+Bare Metal Time 38.36473250389099
+Serverless Call Time: 40.64128661155701
+[Single CPU]
+Bare Metal Time 38.60956120491028
+Serverless Call Time: 40.65473699569702
+[Single CPU]
+Bare Metal Time 38.719412088394165
+Serverless Call Time: 40.6620557308197
+[Single CPU]
+Bare Metal Time 38.640079736709595
+Serverless Call Time: 40.66619825363159
+[Single CPU]
+Bare Metal Time 37.38066911697388
+Serverless Call Time: 39.659395694732666
+
+param: [15, 100, 100, 100]
+[Single CPU]
+Bare Metal Time 0.5553531646728516
+Serverless Call Time: 4.248391628265381
+[Single CPU]
+Bare Metal Time 0.6082653999328613
+Serverless Call Time: 2.143582582473755
+[Single CPU]
+Bare Metal Time 0.5976042747497559
+Serverless Call Time: 3.2404966354370117
+[Single CPU]
+Bare Metal Time 0.6742854118347168
+Serverless Call Time: 5.248282432556152
+[Single CPU]
+Bare Metal Time 0.5987749099731445
+Serverless Call Time: 2.1298837661743164
+
+param: [15, 500, 500, 500]
+[Single CPU]
+Bare Metal Time 62.82208609580994
+Serverless Call Time: 66.8085069656372
+[Single CPU]
+Bare Metal Time 64.56415438652039
+Serverless Call Time: 66.86805558204651
+[Single CPU]
+Bare Metal Time 62.87185502052307
+Serverless Call Time: 64.8702187538147
+[Single CPU]
+Bare Metal Time 64.51933932304382
+Serverless Call Time: 66.84053444862366
+[Single CPU]
+Bare Metal Time 60.57691502571106
+Serverless Call Time: 62.764302253723145
+
+param: [5, 1000, 1000, 1000]
+[Single CPU]
+Bare Metal Time 152.51488375663757
+Serverless Call Time: 155.18741726875305
+[Single CPU]
+Bare Metal Time 152.42297554016113
+Serverless Call Time: 155.09515285491943
+[Single CPU]
+Bare Metal Time 150.08041405677795
+Serverless Call Time: 152.08404326438904
+[Single CPU]
+Bare Metal Time 149.7606978416443
+Serverless Call Time: 152.06815314292908
+[Single CPU]
+Bare Metal Time 150.02537059783936
+Serverless Call Time: 153.05998015403748
+
+param: [10, 1000, 1000, 1000]
+[Single CPU]
+Bare Metal Time 270.2960481643677
+Serverless Call Time: 272.51771664619446
+[Single CPU]
+Bare Metal Time 269.2615211009979
+Serverless Call Time: 271.5037603378296
+[Single CPU]
+Bare Metal Time 270.11880350112915
+Serverless Call Time: 272.5201737880707
+[Single CPU]
+Bare Metal Time 269.66894459724426
+Serverless Call Time: 271.5263547897339
+[Single CPU]
+Bare Metal Time 269.6983046531677
+Serverless Call Time: 272.5266182422638
+
+param: [15, 1000, 1000, 1000]
+[Single CPU]
+Bare Metal Time 419.8146924972534
+Serverless Call Time: 422.95727729797363
+[Single CPU]
+Bare Metal Time 420.810665845871
+Serverless Call Time: 422.9391305446625
+[Single CPU]
+Bare Metal Time 421.6198630332947
+Serverless Call Time: 425.0320026874542
+[Single CPU]
+Bare Metal Time 420.0490400791168
+Serverless Call Time: 422.8837511539459
+[Single CPU]
+Bare Metal Time 419.9687943458557
+Serverless Call Time: 422.93352127075195

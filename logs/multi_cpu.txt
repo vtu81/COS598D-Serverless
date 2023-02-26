@@ -1,0 +1,107 @@
+param: [5, 100, 100, 100]
+[Multi CPU]
+Serverless Call Time: 5.188828945159912
+[Multi CPU]
+Serverless Call Time: 4.20345401763916
+[Multi CPU]
+Serverless Call Time: 5.186601161956787
+[Multi CPU]
+Serverless Call Time: 4.206352949142456
+[Multi CPU]
+Serverless Call Time: 4.221443176269531
+
+param: [5, 500, 500, 500]
+[Multi CPU]
+Serverless Call Time: 8.44705057144165
+[Multi CPU]
+Serverless Call Time: 10.408550262451172
+[Multi CPU]
+Serverless Call Time: 8.452531814575195
+[Multi CPU]
+Serverless Call Time: 10.434689283370972
+[Multi CPU]
+Serverless Call Time: 8.424643754959106
+
+param: [5, 1000, 1000, 1000]
+[Multi CPU]
+Serverless Call Time: 36.81249260902405
+[Multi CPU]
+Serverless Call Time: 34.812402963638306
+[Multi CPU]
+Serverless Call Time: 36.810250997543335
+[Multi CPU]
+Serverless Call Time: 36.788987159729004
+[Multi CPU]
+Serverless Call Time: 36.79751658439636
+
+param: [10, 100, 100, 100]
+[Multi CPU]
+Serverless Call Time: 4.2310707569122314
+[Multi CPU]
+Serverless Call Time: 5.330334424972534
+[Multi CPU]
+Serverless Call Time: 5.318757772445679
+[Multi CPU]
+Serverless Call Time: 5.329059839248657
+[Multi CPU]
+Serverless Call Time: 5.309233903884888
+
+param: [10, 500, 500, 500]
+[Multi CPU]
+Serverless Call Time: 10.78121566772461
+[Multi CPU]
+Serverless Call Time: 8.734689712524414
+[Multi CPU]
+Serverless Call Time: 10.826119184494019
+[Multi CPU]
+Serverless Call Time: 9.81680178642273
+[Multi CPU]
+Serverless Call Time: 10.792043447494507
+
+param: [10, 1000, 1000, 1000]
+[Multi CPU]
+Serverless Call Time: 39.941670656204224
+[Multi CPU]
+Serverless Call Time: 39.6149799823761
+[Multi CPU]
+Serverless Call Time: 39.19510507583618
+[Multi CPU]
+Serverless Call Time: 39.338786363601685
+[Multi CPU]
+Serverless Call Time: 39.305163860321045
+
+param: [15, 100, 100, 100]
+[Multi CPU]
+Serverless Call Time: 7.4866485595703125
+[Multi CPU]
+Serverless Call Time: 5.389862298965454
+[Multi CPU]
+Serverless Call Time: 5.377753734588623
+[Multi CPU]
+Serverless Call Time: 5.609818696975708
+[Multi CPU]
+Serverless Call Time: 6.594639301300049
+
+param: [15, 500, 500, 500]
+[Multi CPU]
+Serverless Call Time: 12.007928609848022
+[Multi CPU]
+Serverless Call Time: 12.034835815429688
+[Multi CPU]
+Serverless Call Time: 11.034488201141357
+[Multi CPU]
+Serverless Call Time: 12.018925666809082
+[Multi CPU]
+Serverless Call Time: 10.97175407409668
+
+param: [15, 1000, 1000, 1000]
+[Multi CPU]
+Serverless Call Time: 42.89165544509888
+[Multi CPU]
+Serverless Call Time: 41.75778317451477
+[Multi CPU]
+Serverless Call Time: 41.96980023384094
+[Multi CPU]
+Serverless Call Time: 41.86451077461243
+[Multi CPU]
+Serverless Call Time: 41.783438205718994

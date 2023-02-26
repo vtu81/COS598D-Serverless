@@ -1,0 +1,187 @@
+param: [5, 100, 100, 100]
+[Single GPU]
+Bare Metal Time 0.5713379383087158
+Serverless Call Time: 6.352663040161133
+[Single GPU]
+Bare Metal Time 0.4362914562225342
+Serverless Call Time: 4.2479798793792725
+[Single GPU]
+Bare Metal Time 0.4949524402618408
+Serverless Call Time: 4.241599798202515
+[Single GPU]
+Bare Metal Time 0.4805152416229248
+Serverless Call Time: 5.265419960021973
+[Single GPU]
+Bare Metal Time 0.45357799530029297
+Serverless Call Time: 4.253368139266968
+
+param: [5, 500, 500, 500]
+[Single GPU]
+Bare Metal Time 0.6116983890533447
+Serverless Call Time: 4.26845908164978
+[Single GPU]
+Bare Metal Time 0.6112003326416016
+Serverless Call Time: 5.267796039581299
+[Single GPU]
+Bare Metal Time 0.6105742454528809
+Serverless Call Time: 4.276405572891235
+[Single GPU]
+Bare Metal Time 0.5990350246429443
+Serverless Call Time: 4.268566608428955
+[Single GPU]
+Bare Metal Time 0.5491087436676025
+Serverless Call Time: 5.450371265411377
+
+param: [5, 1000, 1000, 1000]
+[Single GPU]
+Bare Metal Time 1.7190394401550293
+Serverless Call Time: 6.616943836212158
+[Single GPU]
+Bare Metal Time 1.6622605323791504
+Serverless Call Time: 5.369327783584595
+[Single GPU]
+Bare Metal Time 1.7400362491607666
+Serverless Call Time: 5.3705103397369385
+[Single GPU]
+Bare Metal Time 1.723388433456421
+Serverless Call Time: 5.332610607147217
+[Single GPU]
+Bare Metal Time 1.7569975852966309
+Serverless Call Time: 6.4306440353393555
+
+param: [10, 100, 100, 100]
+[Single GPU]
+Bare Metal Time 0.43392419815063477
+Serverless Call Time: 4.246512174606323
+[Single GPU]
+Bare Metal Time 0.3931882381439209
+Serverless Call Time: 4.248526334762573
+[Single GPU]
+Bare Metal Time 0.39583516120910645
+Serverless Call Time: 4.25220799446106
+[Single GPU]
+Bare Metal Time 0.40136098861694336
+Serverless Call Time: 4.251661062240601
+[Single GPU]
+Bare Metal Time 0.4673340320587158
+Serverless Call Time: 4.249492168426514
+
+param: [10, 500, 500, 500]
+[Single GPU]
+Bare Metal Time 0.831362247467041
+Serverless Call Time: 4.282484531402588
+[Single GPU]
+Bare Metal Time 0.7584118843078613
+Serverless Call Time: 4.277449607849121
+[Single GPU]
+Bare Metal Time 0.7566976547241211
+Serverless Call Time: 3.2774250507354736
+[Single GPU]
+Bare Metal Time 0.7576696872711182
+Serverless Call Time: 4.274028539657593
+[Single GPU]
+Bare Metal Time 0.7538535594940186
+Serverless Call Time: 4.281028509140015
+
+param: [10, 1000, 1000, 1000]
+[Single GPU]
+Bare Metal Time 2.9375035762786865
+Serverless Call Time: 7.54682731628418
+[Single GPU]
+Bare Metal Time 2.887632369995117
+Serverless Call Time: 6.53247332572937
+[Single GPU]
+Bare Metal Time 2.8726940155029297
+Serverless Call Time: 6.515335559844971
+[Single GPU]
+Bare Metal Time 2.8813958168029785
+Serverless Call Time: 6.5378737449646
+[Single GPU]
+Bare Metal Time 2.8998968601226807
+Serverless Call Time: 6.522309064865112
+
+param: [15, 100, 100, 100]
+[Single GPU]
+Bare Metal Time 0.37593579292297363
+Serverless Call Time: 4.236581325531006
+[Single GPU]
+Bare Metal Time 0.3918478488922119
+Serverless Call Time: 4.237790584564209
+[Single GPU]
+Bare Metal Time 0.3899803161621094
+Serverless Call Time: 4.243510484695435
+[Single GPU]
+Bare Metal Time 0.3780198097229004
+Serverless Call Time: 3.2430732250213623
+[Single GPU]
+Bare Metal Time 0.3942387104034424
+Serverless Call Time: 3.249983549118042
+
+param: [15, 500, 500, 500]
+[Single GPU]
+Bare Metal Time 0.946892499923706
+Serverless Call Time: 4.293352365493774
+[Single GPU]
+Bare Metal Time 0.9304323196411133
+Serverless Call Time: 4.28545618057251
+[Single GPU]
+Bare Metal Time 0.9440698623657227
+Serverless Call Time: 5.291015386581421
+[Single GPU]
+Bare Metal Time 0.9354493618011475
+Serverless Call Time: 4.296093225479126
+[Single GPU]
+Bare Metal Time 0.9229660034179688
+Serverless Call Time: 4.288562059402466
+
+param: [15, 1000, 1000, 1000]
+[Single GPU]
+Bare Metal Time 4.0690014362335205
+Serverless Call Time: 7.544330358505249
+[Single GPU]
+Bare Metal Time 4.052646636962891
+Serverless Call Time: 7.5645997524261475
+[Single GPU]
+Bare Metal Time 4.0379884243011475
+Serverless Call Time: 7.544281005859375
+[Single GPU]
+Bare Metal Time 4.035709619522095
+Serverless Call Time: 7.54978609085083
+[Single GPU]
+Bare Metal Time 4.045373439788818
+Serverless Call Time: 7.545123815536499
+
+param: [200, 1000, 1000, 1000]
+[Single GPU]
+Bare Metal Time 49.03802728652954
+Serverless Call Time: 58.647393465042114
+[Single GPU]
+Bare Metal Time 49.17214560508728
+Serverless Call Time: 60.856481313705444
+[Single GPU]
+Bare Metal Time 49.36829495429993
+Serverless Call Time: 59.67131304740906
+[Single GPU]
+Bare Metal Time 49.27154517173767
+Serverless Call Time: 59.90354061126709
+[Single GPU]
+Bare Metal Time 48.93204164505005
+Serverless Call Time: 58.460123777389526
+
+
+param: [200, 1000, 1000, 1000] (5000 iters)
+[Single GPU]
+Bare Metal Time 245.37136960029602
+Serverless Call Time: 256.2363495826721
+[Single GPU]
+Bare Metal Time 243.19943809509277
+Serverless Call Time: 253.69364261627197
+[Single GPU]
+Bare Metal Time 244.05061769485474
+Serverless Call Time: 254.85407423973083
+[Single GPU]
+Bare Metal Time 243.0380301475525
+Serverless Call Time: 252.1489417552948
+[Single GPU]
+Bare Metal Time 244.00016355514526
+Serverless Call Time: 252.90562510490417

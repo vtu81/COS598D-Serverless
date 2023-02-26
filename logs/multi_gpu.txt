@@ -1,0 +1,24 @@
+param: [200, 1000, 1000, 1000]
+[Multi GPU]
+Serverless Call Time: 38.216259717941284
+[Multi GPU]
+Serverless Call Time: 38.15990447998047
+[Multi GPU]
+Serverless Call Time: 37.189520835876465
+[Multi GPU]
+Serverless Call Time: 36.98558282852173
+[Multi GPU]
+Serverless Call Time: 37.877012491226196
+
+
+param: [200, 1000, 1000, 1000] (5000 iters)
+[Multi GPU]
+Serverless Call Time: 134.61915755271912
+[Multi GPU]
+Serverless Call Time: 132.66834568977356
+[Multi GPU]
+Serverless Call Time: 132.83429956436157
+[Multi GPU]
+Serverless Call Time: 131.74180006980896
+[Multi GPU]
+Serverless Call Time: 131.7517352104187
